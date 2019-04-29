@@ -1,0 +1,3 @@
+console_message: 'You cannot execute this command.'
+flying_enabled: 'Flying enabled.'
+flying_disabled: 'Flying disabled.'

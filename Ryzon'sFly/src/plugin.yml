@@ -1,0 +1,8 @@
+name: RyzonFly
+version: 0.0.1
+author: Ryzon
+description: fly with me
+main: ryzon.fly.Main
+
+commands:
+  fly:
